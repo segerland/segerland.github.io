@@ -1,5 +1,10 @@
 h2{
     color:greenyellow;
-    font-size: 24pt;
+    font-size: 24pt
 
 }
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+    padding-top: 3.5rem;
+  }
+  
